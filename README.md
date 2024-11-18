@@ -61,7 +61,7 @@ GitHub: [yhwach-tech](https://github.com/Jhwach)
 ---
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/9344ffe1-a7e6-4e90-bcee-e5f3ab84c1d8" alt="Tech Vibes" width="1018" style="border-radius: 15px;"/>
+  <img src="https://github.com/Jhwach/Jhwach/blob/main/ok.png" alt="Jhwach" width="500" style="border-radius: 15px;"/>
 </div>
 
 ---
