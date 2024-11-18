@@ -8,11 +8,12 @@ const Yhwach = {
     askMeAbout: ["Tech", "AI", "Web3", "Crypto", "Clean Energy", "Fun Projects"],
     webdev: {
         frontend: {
-            js: ["React", "Next.js"],
+            js: ["Astro", "Next.js"],
         },
         backend: {
             js: ["Node.js", "Express"],
             python: ["Flask", "FastAPI"],
+            golang: ["Gin", "Chi"],
         },
     },
     dataScience: {
