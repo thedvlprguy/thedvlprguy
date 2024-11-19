@@ -55,8 +55,8 @@ const Yhwach = {
 
 ## 📧 Contact:
 Email: [thedvlprguy@flash.co](mailto:thedvlprguy@flash.co)  
-Twitter: [@yhwach_tech](https://twitter.com/yhwachh)  
-GitHub: [yhwach-tech](https://github.com/Jhwach)
+Twitter: [@jhwachh](https://twitter.com/Jhwachh)  
+GitHub: [Jhwach](https://github.com/Jhwach)
 
 ---
 
