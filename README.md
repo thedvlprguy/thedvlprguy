@@ -2,7 +2,7 @@
 
 ---
 ```javascript
-const Yhwach = {
+const Aditya = {
     pronouns: "He" | "Him",
     code: ["Golang", "Solidity", "C++", "Java", "Javascript", "Python", "Assembly"],
     askMeAbout: ["Tech", "AI", "Web3", "Crypto", "Clean Energy", "Fun Projects"],
