@@ -34,7 +34,7 @@ const Aditya = {
 ## 📈 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jhwach&show_icons=true&count_private=true&hide_title=true&theme=radical" alt="Yhwach's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thedvlprguy&show_icons=true&count_private=true&hide_title=true&theme=radical" alt="Aditya's GitHub Stats"/>
 </div>
 
 ---
