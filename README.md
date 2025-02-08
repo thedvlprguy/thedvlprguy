@@ -51,6 +51,7 @@ const Aditya = {
 - Runner-Up at **Code4Change** - AI & Clean Energy Innovation
 - Open Source Contributer at **Google Summer of Code'24 , Hacktober Fest'23**
 
+
 ---
 
 ## 📧 Contact:
