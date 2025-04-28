@@ -30,10 +30,17 @@ const 0x2510 = {
 
 ## 📈 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thedvlprguy&show_icons=true&count_private=true&hide_title=true&theme=radical" alt="Aditya's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thedvlprguy&show_icons=true&count_private=true&hide_title=true&theme=radical" alt="thedvlprguy's GitHub Stats"/>
 </div>
 
----
+
+## 🛡️ My Certification:
+
+<div align="center">
+  <a href="https://www.credly.com/badges/21b8386f-9b85-487c-805c-f4265a64f388" target="_blank">
+    <img src="https://github.com/thedvlprguy/thedvlprguy/blob/main/ceh.png" alt="Certified Ethical Hacker Badge" width="200px" style="border-radius: 15px;">
+  </a>
+</div>
 
 ## 🎯 Achievements:
 - **Certified Ethical Hacker (CEH)** Holder
@@ -47,34 +54,14 @@ const 0x2510 = {
 ---
 
 ## 📧 Contact:
-Email: [thedvlprguy@gmail.com](mailto:thedvlprguy@gmail.com)  
-Twitter: [@x1lvr0x4d1](https://twitter.com/x1lvr0x4d1)  
+- Email: [thedvlprguy@gmail.com](mailto:thedvlprguy@gmail.com)  
+- Twitter: [@x1lvr0x4d1](https://twitter.com/x1lvr0x4d1)
 
 ---
 
 <div align="center">
-  <img src="https://github.com/Jhwach/Jhwach/blob/main/ok.png" alt="Jhwach" width="500" style="border-radius: 15px;"/>
+  <img src="https://github.com/thedvlprguy/thedvlprguy/blob/main/silverserver.png" alt="0x4d1" width="1000" height="480" style="border-radius: 15px;"/>
 </div>
 
 ---
 
-### 🛡️ My Certification:
-
-<div align="center">
-  <a href="https://www.credly.com/badges/21b8386f-9b85-487c-805c-f4265a64f388" target="_blank">
-    <img src="https://github.com/thedvlprguy/thedvlprguy/blob/main/ceh.png" alt="Certified Ethical Hacker Badge" width="200px" style="border-radius: 15px;">
-      
-  </a>
-</div>
-
----
-
-
----
-
-✅ **Experience section removed**  
-✅ **AceCTF, Pentathon, OWASP OWTF added properly**  
-✅ **You are shown as a serious hacker — college dropout + CPTS in preparation vibe**  
-✅ **Badge kept as you said**
-
----
