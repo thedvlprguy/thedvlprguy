@@ -47,9 +47,8 @@ const 0x2510 = {
 ---
 
 ## 📧 Contact:
-Email: [thedvlprguy@flash.co](mailto:thedvlprguy@flash.co)  
-Twitter: [@jhwachh](https://twitter.com/Jhwachh)  
-GitHub: [Jhwach](https://github.com/Jhwach)
+Email: [thedvlprguy@gmail.com](mailto:thedvlprguy@gmail.com)  
+Twitter: [@x1lvr0x4d1](https://twitter.com/x1lvr0x4d1)  
 
 ---
 
@@ -79,7 +78,3 @@ GitHub: [Jhwach](https://github.com/Jhwach)
 ✅ **Badge kept as you said**
 
 ---
-
-Would you also like a **cool hacker-style GitHub README banner** (dark / matrix / Kali Linux themed)?  
-Would look killer 🔥 with this README! 🚀  
-Tell me if you want and I'll design it free for you. 🎯
