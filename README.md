@@ -1,56 +1,48 @@
-
-
----
+# 👨‍💻 About Me
 ```javascript
-const 0x2510= {
+const 0x2510 = {
     pronouns: "He" | "Him",
-    code: ["Golang", "Solidity", "C++", "Java", "Javascript", "Python", "Assembly"],
-    askMeAbout: ["Tech", "AI", "Web3", "Crypto", "Clean Energy", "Fun Projects"],
-    webdev: {
-        frontend: {
-            js: ["Astro", "Next.js"],
+    code: ["Python", "Assembly", "C++", "Bash", "Powershell"],
+    askMeAbout: ["Cybersecurity", "Penetration Testing", "Reverse Engineering", "Exploit Development", "Red Teaming"],
+    cybersecurity: {
+        offensive: {
+            python: ["Payload Development", "Automated Exploitation Scripts"],
+            tools: ["Metasploit", "Burp Suite", "Nmap", "Wireshark", "JohnTheRipper", "SQLMap"],
         },
-        backend: {
-            js: ["Node.js", "Express"],
-            python: ["Flask", "FastAPI"],
-            golang: ["Gin", "Chi"],
+        defensive: {
+            python: ["Log Analysis Tools", "SIEM Integrations"],
+            frameworks: ["MITRE ATT&CK", "NIST", "OWASP"],
         },
     },
-    dataScience: {
-        "ML", "AI", "Computer Vision", "Deep Learning",
+    hackingSkills: {
+        "Ethical Hacking", "Penetration Testing", "Vulnerability Assessment", "Red Team Operations", "OSINT", "Wireless Attacks",
     },
-    devOps: ["Docker🐳", "Kubernetes", "CI/CD"],
-    blockchain: ["Ethereum", "Solidity", "Web3.js", "IPFS"],
-    databases: ["Postgres", "MongoDB", "MySQL"],
-    tools: ["Git", "GitHub", "CI/CD", "VSCode"],
-    funFact: "I’m not here to just build. I’m here to change the game 🔥"
+    devOps: ["Docker🐳", "Kubernetes", "CI/CD Pipelines"],
+    scripting: ["Python", "Bash", "Powershell"],
+    databases: ["MySQL", "PostgreSQL", "MongoDB"],
+    tools: ["Git", "VSCode", "Burp Suite", "Kali Linux", "Parrot OS"],
+    funFact: "I break systems to make them safer 🔥"
 };
 ```
 
-
 # 💻 Tech Stack:
-![Golang](https://img.shields.io/badge/golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Solidity](https://img.shields.io/badge/solidity-%2300ADD8.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%2300723D.svg?style=for-the-badge&logo=docker&logoColor=white) ![IPFS](https://img.shields.io/badge/IPFS-%23E0038D.svg?style=for-the-badge&logo=ipfs&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Powershell](https://img.shields.io/badge/Powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%2300723D.svg?style=for-the-badge&logo=docker&logoColor=white) ![KaliLinux](https://img.shields.io/badge/KaliLinux-%2300ADD8.svg?style=for-the-badge&logo=kalilinux&logoColor=white) ![Wireshark](https://img.shields.io/badge/wireshark-%23006CA2.svg?style=for-the-badge&logo=wireshark&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-%2300ADD8.svg?style=for-the-badge&logo=metasploit&logoColor=white)
 
 ## 📈 GitHub Stats:
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thedvlprguy&show_icons=true&count_private=true&hide_title=true&theme=radical" alt="Aditya's GitHub Stats"/>
 </div>
 
 ---
 
-## 💼 Experience:
-- **Android Developer** at [Flash](https://flash.co)
-- **Blockchain Developer** at [Web3 Innovations](https://nitiayog.com)
-- **Researcher** in Clean Energy & Sustainability Projects
-
----
-
 ## 🎯 Achievements:
-- Winner of **Hack4Change'23** - Augmented Reality
-- Runner-Up at **Code4Change** - AI & Clean Energy Innovation
-- Open Source Contributer at **Google Summer of Code'24 , Hacktober Fest'23**
-
+- **Certified Ethical Hacker (CEH)** Holder
+- **AceCTF 2024** Solo Rank **#81** 🎯
+- **Pentathon 2024** All India Rank **#8** 🛡️
+- **Contributing to OWASP OWTF** (Offensive Web Testing Framework) on **MITM Proxy Module** under **GSoC**
+- Preparing for **CPTS (Certified Penetration Testing Specialist)** 🕶️
+- **College Dropout**, Full-Time Hacker 🚀
+- Bug Bounty Researcher on **HackerOne** and **Bugcrowd**
 
 ---
 
@@ -66,3 +58,28 @@ GitHub: [Jhwach](https://github.com/Jhwach)
 </div>
 
 ---
+
+### 🛡️ My Certification:
+
+<div align="center">
+  <a href="https://www.credly.com/badges/21b8386f-9b85-487c-805c-f4265a64f388" target="_blank">
+    <img src="https://github.com/thedvlprguy/thedvlprguy/blob/main/ceh.png" alt="Certified Ethical Hacker Badge" width="200px" style="border-radius: 15px;">
+      
+  </a>
+</div>
+
+---
+
+
+---
+
+✅ **Experience section removed**  
+✅ **AceCTF, Pentathon, OWASP OWTF added properly**  
+✅ **You are shown as a serious hacker — college dropout + CPTS in preparation vibe**  
+✅ **Badge kept as you said**
+
+---
+
+Would you also like a **cool hacker-style GitHub README banner** (dark / matrix / Kali Linux themed)?  
+Would look killer 🔥 with this README! 🚀  
+Tell me if you want and I'll design it free for you. 🎯
