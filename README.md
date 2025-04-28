@@ -60,8 +60,9 @@ const 0x2510 = {
 ---
 
 <div align="center">
-  <img src="https://github.com/thedvlprguy/thedvlprguy/blob/main/silverserver.png" alt="0x4d1" width="1000" height="480" style="border-radius: 15px;"/>
+  <img src="https://github.com/thedvlprguy/thedvlprguy/blob/main/silverserver.png" alt="0x4d1" style="max-width: 100%; height: auto; border-radius: 15px;"/>
 </div>
+
 
 ---
 
