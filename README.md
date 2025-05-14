@@ -43,9 +43,9 @@ const 0x2510 = {
 </div>
 
 ## 🎯 Achievements:
-- **Certified Ethical Hacker (CEH)** Holder
+- **CISCO Ethical Hacker (CEH)** Holder
 - **AceCTF 2024** Solo Rank **#81** 🎯
-- **Pentathon 2024** All India Rank **#8** 🛡️
+- **HexOfVlad'2024** All India Rank **#8** 🛡️
 - **Contributing to OWASP OWTF** (Offensive Web Testing Framework) on **MITM Proxy Module** under **My Mentors**
 - Preparing for **CPTS (Certified Penetration Testing Specialist)** 🕶️
 - **College Dropout**, Full-Time Hacker 🚀
