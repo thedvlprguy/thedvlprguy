@@ -55,7 +55,7 @@ const 0x2510 = {
 
 ## 📧 Contact:
 - Email: [thedvlprguy@gmail.com](mailto:thedvlprguy@gmail.com)  
-- Twitter: [@thegreatkhali](https://twitter.com/hexofvlad)
+- Twitter: [@thegreatkhali](https://twitter.com/0x4d1Xploit)
 
 ---
 
