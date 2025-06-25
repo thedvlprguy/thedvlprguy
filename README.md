@@ -3,7 +3,7 @@
 const 0x2510 = {
     pronouns: "He" | "Him",
     code: ["Python", "Assembly", "C++", "Bash", "Powershell"],
-    askMeAbout: ["Cybersecurity", "Penetration Testing", "Reverse Engineering", "Exploit Development", "Red Teaming"],
+    askMeAbout: ["Cybersecurity", "Penetration Testing", "Reverse Engineering", "Exploit Development"],
     cybersecurity: {
         offensive: {
             python: ["Payload Development", "Automated Exploitation Scripts"],
@@ -45,7 +45,7 @@ const 0x2510 = {
 ## 🎯 Achievements:
 - **CISCO Ethical Hacker (CEH)** Holder
 - **AceCTF 2024** Solo Rank **#81** 🎯
-- **HexOfVlad'2024** All India Rank **#8** 🛡️
+- **Pentathon'2025** All India Rank **#8** 🛡️
 - **Contributing to OWASP OWTF** (Offensive Web Testing Framework) on **MITM Proxy Module** under **My Mentors**
 - Preparing for **CPTS (Certified Penetration Testing Specialist)** 🕶️
 - **College Dropout**, Full-Time Hacker 🚀
