@@ -1,28 +1,39 @@
 # 👨‍💻 About Me
 ```javascript
-const 0x2510 = {
+const sudog0d = {
     pronouns: "He" | "Him",
-    code: ["Python", "Assembly", "C++", "Bash", "Powershell"],
-    askMeAbout: ["Cybersecurity", "Penetration Testing", "Reverse Engineering", "Exploit Development"],
-    cybersecurity: {
-        offensive: {
-            python: ["Payload Development", "Automated Exploitation Scripts"],
-            tools: ["Metasploit", "Burp Suite", "Nmap", "Wireshark", "JohnTheRipper", "SQLMap"],
+    code: ["Python", "Assembly", "C++", "Bash", "PowerShell"],
+    askMeAbout: ["SOC Analysis", "Reverse Engineering", "Incident Response", "Threat Hunting", "Malware Analysis"],
+    socAnalyst: {
+        blueTeamOps: {
+            tools: ["SIEM (Splunk, ELK, IBM QRadar)", "SOAR", "Wireshark", "Suricata", "Zeek", "OSQuery"],
+            tasks: ["Log Analysis", "Threat Detection", "Alert Triage", "Incident Response", "Forensic Investigation"],
+            frameworks: ["MITRE ATT&CK", "NIST CSF", "CIS Controls"],
         },
-        defensive: {
-            python: ["Log Analysis Tools", "SIEM Integrations"],
-            frameworks: ["MITRE ATT&CK", "NIST", "OWASP"],
+        scriptingForSOC: {
+            python: ["Log Parsers", "Threat Intel Enrichment", "Automation Scripts"],
+            powershell: ["Windows Audit Scripts", "Event Log Extraction"],
         },
     },
-    hackingSkills: {
-        "Ethical Hacking", "Penetration Testing", "Vulnerability Assessment", "Red Team Operations", "OSINT", "Wireless Attacks",
+    reverseEngineering: {
+        tools: ["Ghidra", "IDA Pro", "x64dbg", "Radare2", "Cutter", "Binary Ninja"],
+        focus: ["Static Analysis", "Dynamic Analysis", "Binary Patching", "Exploit Development"],
+        targets: ["PE Files", "ELF Binaries", "Firmware", "Malware Samples"],
     },
-    devOps: ["Docker🐳", "Kubernetes", "CI/CD Pipelines"],
-    scripting: ["Python", "Bash", "Powershell"],
-    databases: ["MySQL", "PostgreSQL", "MongoDB"],
-    tools: ["Git", "VSCode", "Burp Suite", "Kali Linux", "Parrot OS"],
-    funFact: "I break systems to make them safer 🔥"
+    hackingSkills: [
+        "Packet Analysis", 
+        "Memory Forensics", 
+        "Malware Behavior Tracking", 
+        "Reverse Engineering", 
+        "IOC Extraction",
+    ],
+    devOpsUnderstanding: ["Docker", "Sysmon", "Event Logging", "Log Aggregation"],
+    scripting: ["Python", "Bash", "PowerShell"],
+    databases: ["Elasticsearch", "SQLite", "PostgreSQL"],
+    tools: ["Git", "VSCode", "Kali Linux", "Parrot OS", "Autopsy", "Volatility"],
+    funFact: "I dissect binaries and monitor logs to expose the shadows 🌑🕵️‍♂️"
 };
+
 ```
 
 # 💻 Tech Stack:
