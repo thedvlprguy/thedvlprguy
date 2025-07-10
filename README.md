@@ -35,9 +35,4 @@ Info that nobody cares about (but I do and gonna mention for no reason at all):
 : Hackerone Invites?  - sudog0d@wearehackerone.com
 : LinkedIn            - www.linkedin.com/in/aditya-bhai/
 ```
-
----
-
-
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thedvlprguy&label=Profile%20views&color=0e75b6&style=flat" alt="thedvlprguy" /> </p>
