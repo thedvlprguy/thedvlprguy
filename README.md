@@ -28,8 +28,6 @@ Info that nobody cares about (but I do and gonna mention for no reason at all):
 ⁍ 5w4
 ```
 
----
-
 ### ⁍ 𝑾𝒂𝒏𝒏𝒂 𝑯𝒊𝒓𝒆 𝑴𝒆?
 
 ```
