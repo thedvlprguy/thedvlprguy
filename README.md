@@ -2,7 +2,7 @@
 ```
 File  Action  Edit  View  Help
 
-┌──(sudog0d㉿GitHub)-[~]
+┌──(0xj1n㉿GitHub)-[~]
 └─$ cat about-me
 
 ⁍ Name : Aditya Tomar
