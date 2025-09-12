@@ -2,7 +2,7 @@
 ```
 File  Action  Edit  View  Help
 
-┌──(0xj1n㉿GitHub)-[~]
+┌──(x88re㉿GitHub)-[~]
 └─$ cat about-me
 
 ⁍ Name : Aditya Tomar
