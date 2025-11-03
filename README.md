@@ -7,7 +7,7 @@ File  Action  Edit  View  Help
 
 ⁍ Name : Aditya Tomar
 ⁍ ??   : Defensive Security | Reverse Engineering (Gonna be - Wanna be)?!
-⁍ ??   : First Year Cybersecurity Student @ Indian Institute of Technology, Patna (I²T)
+⁍ ??   : Third Year Cybersecurity Student @ Indian Institute of Technology, Patna (I²T)
 
 : Learning :
 ==> Static & Dynamic Analysis 
