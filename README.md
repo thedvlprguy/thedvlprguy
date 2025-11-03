@@ -16,7 +16,7 @@ File  Action  Edit  View  Help
 ==> Reverse Engineering Specialist@Google Operations Center
 
 : Certification Currently Preparing for :
-==> Security+ - Comptia's Security+ Expert
+==> CRTO - Certified Red Team Operations Expert
 
 : Working on :
 ==> Building crackme's for reverse engineering and soc analysis (Inspired by Crackme's)
