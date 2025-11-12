@@ -6,7 +6,7 @@ File  Action  Edit  View  Help
 └─$ cat about-me
 
 ⁍ Name : Aditya Tomar
-⁍ ??   : Defensive Security | Reverse Engineering (Gonna be - Wanna be)?!
+⁍ ??   : Offensive Security | Reverse Engineering (Gonna be - Wanna be)?!
 ⁍ ??   : Third Year Cybersecurity Student @ Indian Institute of Technology, Patna (I²T)
 
 : Learning :
